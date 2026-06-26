@@ -2,7 +2,7 @@
 
 # NOVA ENTERPRISES
 
-<img src="assets/banner.png" alt="Nova Enterprises Banner" width="100%" />
+<img src="novabanner.png" alt="Nova Enterprises Banner" width="100%" />
 
 ### Building the future, one project at a time.
 
