@@ -1,7 +1,4 @@
 <div align="center">
-
-# NOVA ENTERPRISES
-
 <img src="novabanner.png" alt="Nova Enterprises Banner" width="100%" />
 
 ### Building the future, one project at a time.
